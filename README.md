@@ -13,3 +13,9 @@ cd ./rcgui
 Step 3:
 Execute the python code using python 3
 python3 gui.py
+# SQL
+
+1. in terminal type mysql -u root -p
+2. Password is password
+3. USE COMPANY1; as database
+4. Execute queries one by one to test them
